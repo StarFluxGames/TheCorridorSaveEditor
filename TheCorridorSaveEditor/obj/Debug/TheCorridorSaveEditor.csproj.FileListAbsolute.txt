@@ -1,0 +1,10 @@
+C:\Users\Lachlan\source\repos\TheCorridorSaveEditor\TheCorridorSaveEditor\bin\Debug\TheCorridorSaveEditor.exe.config
+C:\Users\Lachlan\source\repos\TheCorridorSaveEditor\TheCorridorSaveEditor\bin\Debug\TheCorridorSaveEditor.exe
+C:\Users\Lachlan\source\repos\TheCorridorSaveEditor\TheCorridorSaveEditor\bin\Debug\TheCorridorSaveEditor.pdb
+C:\Users\Lachlan\source\repos\TheCorridorSaveEditor\TheCorridorSaveEditor\obj\Debug\TheCorridorSaveEditor.csproj.AssemblyReference.cache
+C:\Users\Lachlan\source\repos\TheCorridorSaveEditor\TheCorridorSaveEditor\obj\Debug\TheCorridorSaveEditor.Form1.resources
+C:\Users\Lachlan\source\repos\TheCorridorSaveEditor\TheCorridorSaveEditor\obj\Debug\TheCorridorSaveEditor.Properties.Resources.resources
+C:\Users\Lachlan\source\repos\TheCorridorSaveEditor\TheCorridorSaveEditor\obj\Debug\TheCorridorSaveEditor.csproj.GenerateResource.cache
+C:\Users\Lachlan\source\repos\TheCorridorSaveEditor\TheCorridorSaveEditor\obj\Debug\TheCorridorSaveEditor.csproj.CoreCompileInputs.cache
+C:\Users\Lachlan\source\repos\TheCorridorSaveEditor\TheCorridorSaveEditor\obj\Debug\TheCorridorSaveEditor.exe
+C:\Users\Lachlan\source\repos\TheCorridorSaveEditor\TheCorridorSaveEditor\obj\Debug\TheCorridorSaveEditor.pdb
